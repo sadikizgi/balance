@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\NYP10022017\NYP10022017\bin\Debug\NYP10022017.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NYP10022017\NYP10022017\bin\Debug\NYP10022017.exe
+c:\users\admin\documents\visual studio 2015\Projects\NYP10022017\NYP10022017\bin\Debug\NYP10022017.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NYP10022017\NYP10022017\obj\Debug\NYP10022017.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\NYP10022017\NYP10022017\obj\Debug\NYP10022017.exe
+c:\users\admin\documents\visual studio 2015\Projects\NYP10022017\NYP10022017\obj\Debug\NYP10022017.pdb
+C:\Users\izgi\Desktop\C#\NYP10022017\NYP10022017\bin\Debug\NYP10022017.exe.config
+C:\Users\izgi\Desktop\C#\NYP10022017\NYP10022017\obj\Debug\NYP10022017.exe
+C:\Users\izgi\Desktop\C#\NYP10022017\NYP10022017\obj\Debug\NYP10022017.pdb
